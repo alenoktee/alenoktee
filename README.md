@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <h1>About me:</h1>
+  <h2>I'm Alena, a college student studying to become a programmer.</h2>
 </div>
 </div>
 
-<h1 center>Hello! I'm Alena, a college student studying to become a programmer.</h1>
