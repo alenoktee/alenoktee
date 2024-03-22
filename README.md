@@ -1,7 +1,7 @@
 <h2 left>Hello! I'm Alena, a college student studying to become a programmer.</h2>
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: I am good at :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
