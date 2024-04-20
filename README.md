@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-Hey there! I'm Alena,  I'm eager to learn and contribute to exciting projects.
+Hey there! I'm Alena, a student programmer who is developing in the direction of .net development. I'm eager to learn and contribute to exciting projects.
 
 ### 💻 Skills
 
@@ -32,7 +32,7 @@ I'm currently studying Information technology software at Vitebsk State Technolo
 
 ### 📫 Let's Connect
 
-I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out to me via [email](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your_username). Let's learn and grow together!
+I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out to me via [email](mailto:elapr943@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alena-mikhnevich-79bbb6295/). Let's learn and grow together!
 
 ---
 
