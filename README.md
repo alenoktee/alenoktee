@@ -9,14 +9,14 @@
 
 ### 🌟 About Me
 
-Hey there! I'm [Your Name], an enthusiastic junior developer with a passion for crafting clean, efficient code and bringing creative ideas to life. Currently on my journey to becoming a proficient programmer, I'm eager to learn and contribute to exciting projects.
+Hey there! I'm Alena,  I'm eager to learn and contribute to exciting projects.
 
 ### 💻 Skills
 
 Here are some of the technologies and tools I'm familiar with:
 
 - **Languages:** C#, Java, Python
-- **Frameworks/Libraries:** Unity, .NET Core
+- **Frameworks/Libraries:** Unity, .NET Framework, .NET Core
 - **Tools:** Visual Studio, Git, GitHub
 
 ### 🚀 Projects
@@ -28,10 +28,7 @@ Check out some of the projects I've worked on:
 
 ### 📚 Education
 
-I'm currently studying [Your Major] at [Your University]. Here are some relevant courses I've taken:
-
-- Course 1: Description
-- Course 2: Description
+I'm currently studying Information technology software at Vitebsk State Technological College.
 
 ### 📫 Let's Connect
 
