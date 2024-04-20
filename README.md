@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello, I'm [Your Name]!</h2>
+<h2 align="center">👋 Hello, I'm Alena!</h2>
 
 <p align="center">
   <a href="mailto:your_email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-9cf?style=flat-square&logo=Gmail&logoColor=white"></a>
