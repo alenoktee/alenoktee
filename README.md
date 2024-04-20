@@ -23,8 +23,8 @@ Here are some of the technologies and tools I'm familiar with:
 
 Check out some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description
-- [Project 2](link-to-project-2): Brief description
+- [Project 1](link-to-project-1): descr
+- [Project 2](link-to-project-2): descr
 
 ### 📚 Education
 
