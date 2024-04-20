@@ -23,7 +23,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 Check out some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): descr
+- [Project 1](https://github.com/alenoktee/Schedule): A simple application for editing a college schedule using Windows Forms technology as well as XML files, datatables, etc.
 - [Project 2](link-to-project-2): descr
 
 ### 📚 Education
