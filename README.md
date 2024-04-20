@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-Hey there! I'm Alena, a student programmer who is developing in the direction of .net development. I'm eager to learn and contribute to exciting projects.
+Hey there! I'm Alena, a student programmer who is developing in the direction of .NET development. I'm eager to learn and contribute to exciting projects.
 
 ### 💻 Skills
 
