@@ -15,7 +15,7 @@ Hey there! I'm Alena, a student programmer who is developing in the direction of
 
 Here are some of the technologies and tools I'm familiar with:
 
-- **Languages:** C#, Java, Python, SQL
+- **Languages:** C#, JavaScript, PHP, SQL
 - **Frameworks/Libraries:** Unity, .NET Framework, ASP.NET Core
 - **Tools:** Visual Studio, Git
 
