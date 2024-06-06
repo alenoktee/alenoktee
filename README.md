@@ -23,9 +23,10 @@ Here are some of the technologies and tools I'm familiar with:
 
 Check out some of the projects I've worked on:
 
-- [Photographer](https://github.com/alenoktee/Photographer): Portfolio website for the fictional photographer Maxim Avdeev, written using Bootstrap, JQuery, FullPage, OwlCarousel and other plugins.
-- [Schedule](https://github.com/alenoktee/Schedule): A simple application for editing a college schedule using Windows Forms technology as well as XML files, datatables, etc. It was developed for laboratory work.
-- [Formulas](https://github.com/alenoktee/Formulas): Windows Forms application for calculating using one of two formulas to choose from, made as part of laboratory work.
+- [MeowMenu 🐾](https://github.com/alenoktee/MeowMenu): Website for course work, which is under development
+- [Photographer 📸](https://github.com/alenoktee/Photographer): Portfolio website for the fictional photographer Maxim Avdeev, written using Bootstrap, JQuery, FullPage, OwlCarousel and other plugins.
+- [Schedule 🗓](https://github.com/alenoktee/Schedule): A simple application for editing a college schedule using Windows Forms technology as well as XML files, datatables, etc. It was developed for laboratory work.
+- [Formulas 📝](https://github.com/alenoktee/Formulas): Windows Forms application for calculating using one of two formulas to choose from, made as part of laboratory work.
 
 ### 📚 Education
 
