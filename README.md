@@ -16,15 +16,14 @@ Hey there! I'm Alena, a student programmer who is developing in the direction of
 Here are some of the technologies and tools I'm familiar with:
 
 - **Languages:** C#, JavaScript, PHP, SQL
-- **Frameworks/Libraries:** Unity, .NET Framework, ASP.NET Core
+- **Frameworks/Libraries:** .NET Framework, ASP.NET Core, Bootstrap, JQuery
 - **Tools:** Visual Studio, Git
 
 ### 🚀 Projects
 
 Check out some of the projects I've worked on:
 
-- 🐾 [MeowMenu](https://github.com/alenoktee/MeowMenu): Website for course work, which is under development
-- 📸 [Photographer](https://github.com/alenoktee/Photographer): Portfolio website for the fictional photographer Maxim Avdeev, written using Bootstrap, JQuery, FullPage, OwlCarousel and other plugins.
+- 📸 [Photographer's business card website](https://github.com/alenoktee/Photographer): Portfolio website for the fictional photographer Maxim Avdeev, written using Bootstrap, JQuery, FullPage, OwlCarousel and other plugins.
 - 🗓 [Schedule](https://github.com/alenoktee/Schedule): A simple application for editing a college schedule using Windows Forms technology as well as XML files, datatables, etc. It was developed for laboratory work.
 - 📝 [Formulas](https://github.com/alenoktee/Formulas): Windows Forms application for calculating using one of two formulas to choose from, made as part of laboratory work.
 
